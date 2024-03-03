@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/avadhesh-official/static/css/main.987bf72e.css",
+    "main.js": "/avadhesh-official/static/js/main.470b3b73.js",
+    "static/js/453.468ae4c8.chunk.js": "/avadhesh-official/static/js/453.468ae4c8.chunk.js",
+    "static/media/final-banner.svg": "/avadhesh-official/static/media/final-banner.5fed457dc4282e9ebef7dd8abe7094b5.svg",
+    "static/media/logo.webp": "/avadhesh-official/static/media/logo.8501c664bceb7ce9f2bd.webp",
+    "index.html": "/avadhesh-official/index.html",
+    "main.987bf72e.css.map": "/avadhesh-official/static/css/main.987bf72e.css.map",
+    "main.470b3b73.js.map": "/avadhesh-official/static/js/main.470b3b73.js.map",
+    "453.468ae4c8.chunk.js.map": "/avadhesh-official/static/js/453.468ae4c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.987bf72e.css",
+    "static/js/main.470b3b73.js"
+  ]
+}
